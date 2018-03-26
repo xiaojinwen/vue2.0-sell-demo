@@ -5,6 +5,9 @@
 ## 展示(无数据)
  https://xiaojinwen.github.io/vue2.0-sell-demo
  
+## 展示(mock数据)
+http://118.89.45.240:3000/
+ 
 ## Build Setup
 ``` bash
 # install dependencies
