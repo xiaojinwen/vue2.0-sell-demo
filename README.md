@@ -2,11 +2,10 @@
 
 > 仿饿了么外卖app
 
-## Build Setup
-
-## 展示(无数据)
+# 展示(无数据)
  https://xiaojinwen.github.io/vue2.0-sell-demo
-
+ 
+## Build Setup
 ``` bash
 # install dependencies
 npm install
