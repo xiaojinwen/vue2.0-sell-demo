@@ -1,11 +1,11 @@
-# sell
+## vue2.0-sell-demo
 
-> sell app
-
-## 展示 无数据
- https://xiaojinwen.github.io/vue2.0-sell-demo
+> 仿饿了么外卖app
 
 ## Build Setup
+
+## 展示(无数据)
+ https://xiaojinwen.github.io/vue2.0-sell-demo
 
 ``` bash
 # install dependencies
