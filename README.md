@@ -1,8 +1,8 @@
-## vue2.0-sell-demo
+# vue2.0-sell-demo
 
 > 仿饿了么外卖app
 
-# 展示(无数据)
+## 展示(无数据)
  https://xiaojinwen.github.io/vue2.0-sell-demo
  
 ## Build Setup
