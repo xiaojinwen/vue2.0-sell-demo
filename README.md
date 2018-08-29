@@ -6,7 +6,7 @@
  https://xiaojinwen.github.io/vue2.0-sell-demo
  
 ## 展示(mock数据)
-http://118.89.45.240:3000/
+ http://119.29.143.126:3001/
  
 ## Build Setup
 ``` bash
